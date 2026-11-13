@@ -59,7 +59,7 @@ Es evidente a simplevista la correlación entre tiempo y smayor sonoridad.
 
 **Explicación e interpretación:**
 
-[Espacio para interpretar los resultados.]
+
 
 ---
 
@@ -69,9 +69,6 @@ Es evidente a simplevista la correlación entre tiempo y smayor sonoridad.
 
 ![Gráfico de evolución del tempo](src/utils/correlacion_year_tempo.png)
 
-**Explicación e interpretación:**
-
-[Espacio para interpretar los resultados.]
 
 ---
 
@@ -81,9 +78,7 @@ Es evidente a simplevista la correlación entre tiempo y smayor sonoridad.
 
 ![Gráfico de evolución de energy](src/utils/corr_year_energy.png)
 
-**Explicación e interpretación:**
 
-[Espacio para interpretar los resultados.]
 
 ---
 
@@ -95,33 +90,9 @@ Es evidente a simplevista la correlación entre tiempo y smayor sonoridad.
 
 **Explicación e interpretación:**
 
-[Describe las correlaciones más relevantes, su intensidad y dirección, así como su significación estadística cuando corresponda.]
+Gráfica meramente ilustrativa
 
----
 
-## 4. ANÁLISIS COMPLEMENTARIOS
-
-### 4.1. Comparación entre géneros musicales
-
-**Objetivo:** estudiar si las tendencias observadas se manifiestan de forma homogénea entre los distintos géneros.
-
-![Gráfico comparativo de géneros](RUTA_IMAGEN)
-
-**Explicación e interpretación:**
-
-[Espacio para resultados.]
-
-### 4.2. Relación entre popularidad y características musicales
-
-**Objetivo:** investigar si las canciones más populares presentan características musicales diferenciadas.
-
-![Gráfico de popularidad](RUTA_IMAGEN)
-
-**Explicación e interpretación:**
-
-[Espacio para resultados.]
-
----
 
 ## 5. CONCLUSIONES
 
